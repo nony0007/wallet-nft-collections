@@ -6,15 +6,15 @@
       "description": "Testing NFT Standard",
       "preview": {
         "source": "https://docs.venom.foundation/assets/images/Venom%20Foundation%20Press%20image%20001-9d35c41f840b3e7a5c01814aca86b0fd.png",
-        "mimetype": "image/png"
+        "mimeType": "image/png"
       },
       "files": [
         {
           "source": "https://docs.venom.foundation/assets/images/Venom%20Foundation%20Press%20image%20001-9d35c41f840b3e7a5c01814aca86b0fd.png",
-          "mimetype": "image/png"
+          "mimeType": "image/png"
         }
       ],
-      "external_url": "https://docs.venom.foundation"
+      "externalUrl": "https://docs.venom.foundation"
     }
   ]
 }
